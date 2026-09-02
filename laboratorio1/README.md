@@ -48,11 +48,11 @@ estructura_datos/laboratorio1
 └── validacionMatriz.py
 ```
 
-### `README.md`
+### README.md
 
 Archivo actual
 
-### `matriz.py`
+### matriz.py
 
 Este programa se encarga de generar la matriz de 100,000 × 100,000 y almacenarla directamente en el disco.
 
@@ -60,7 +60,7 @@ Para evitar realizar una operación de escritura por cada una de las 100,000 fil
 
 El programa escribe estos bloques directamente en el archivo `matriz.txt`.
 
-### `validacionMatriz.py`
+### validacionMatriz.py
 
 Este programa se utiliza para comprobar que el archivo generado tenga las dimensiones esperadas.
 
@@ -97,7 +97,7 @@ La estructura del archivo permite identificar el final de cada fila mediante el 
 ```text
 |
 ```
-Y un mensaje el siguiente mensaje:
+Y el siguiente mensaje:
 
 Matriz creada correctamente.
 
@@ -105,8 +105,11 @@ Matriz creada correctamente.
 ### Al ejecutar correctamente validacionMatriz.py, se obtiene el siguiente mensaje:
 
 Filas correctas: tiene 100000
+
 Columnas correctas: tiene 100000
+
 La matriz tiene las dimensiones correctas:
+
 100000 filas x 100000 columnas
 
 Primera fila:
