@@ -21,24 +21,25 @@ estructura_datos/laboratorio1
 └── arbolMerkle.py
 ```
 
-- ##**`README.md`**: Archivo actual.
+### - **`README.md`**: 
+Archivo actual.
 
-- **`Captura de pantalla.png`**: contiene la captura de pantalla de las
-  verificaciones solicitadas, incluyendo la verificación válida y la
-  verificación con datos incorrectos.
+### - **`Captura de pantalla.png`**: 
+Contiene la captura de pantalla de las verificaciones solicitadas, 
+incluyendo la verificación válida y la verificación con datos incorrectos.
 
-- **`arbolMerkle.txt`**: contiene el diagrama ASCII del Árbol de Merkle
-  construido a partir de los cinco bloques.
+### - **`arbolMerkle.txt`**:
+Contiene el diagrama ASCII del Árbol de Merkle construido a partir de los cinco bloques.
 
-- **`arbolMerkle.py`**: contiene el código fuente para la implementación del
-  Árbol de Merkle, la construcción del árbol y las funciones de
-  verificación.
+### - **`arbolMerkle.py`**: 
+Contiene el código fuente para la implementación del Árbol de Merkle, 
+la construcción del árbol y las funciones de verificación.
 
 El programa permite construir el árbol a partir de cinco bloques de datos,
 obtener la Merkle Root, comprobar que una modificación en un bloque cambia
 la raíz y realizar pruebas de inclusión.
 
-## Funcionamiento
+**Funcionamiento**
 
 El programa realiza las siguientes operaciones:
 
@@ -53,7 +54,7 @@ El programa realiza las siguientes operaciones:
 9. Realiza una verificación utilizando un bloque incorrecto y comprueba que
    la prueba falla.
 
-# Bloques utilizados
+**Bloques utilizados**
 
 Los cinco bloques utilizados en el experimento son:
 
@@ -63,7 +64,7 @@ Los cinco bloques utilizados en el experimento son:
 - **Bloque 4:** Ana compra un libro
 - **Bloque 5:** Pablo compra 3 helados
 
-# Prueba de inclusión
+**Prueba de inclusión**
 
 Se genera una prueba de inclusión para el bloque 3.
 
