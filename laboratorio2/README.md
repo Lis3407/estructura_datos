@@ -1,4 +1,4 @@
-# Laboratorio 2 - Árbol de Merkle
+# Laboratorio 2: Árbol de Merkle
 
 ## Autor
 Liseth Andrea Bedoya Cuervo
