@@ -21,9 +21,9 @@ estructura_datos/laboratorio1
 └── arbolMerkle.py
 ```
 
-- **`README.md`**: Archivo actual.
+- **###`README.md`**: Archivo actual.
 
-- **`Captura de pantalla.png`**: contiene la captura de pantalla de las
+- **###`Captura de pantalla.png`**: contiene la captura de pantalla de las
   verificaciones solicitadas, incluyendo la verificación válida y la
   verificación con datos incorrectos.
 
